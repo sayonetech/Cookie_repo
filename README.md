@@ -7,5 +7,5 @@ The function adapted in this script is to format the cookie taken from headers t
 2.Create virtual </br>
 3.Install the requirements</br>
 4.Run the project as a django project</br> 
-eg:python manage.py runserver
-Yoy can check the demo here : https://cookierep.herokuapp.com/home/
+eg:python manage.py runserver<br>
+You can check the demo here : https://cookierep.herokuapp.com/home/ 
