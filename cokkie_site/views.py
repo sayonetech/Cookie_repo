@@ -18,6 +18,7 @@ class CookieView(TemplateView):
     abc=[]
     bcd={}
     input = request.POST['input']
+    input = input.strip(" ")
     print input,"\n\n\n\n\n#######################\n\n\n\n\n"
     f=input.split(';')
     data=[]
